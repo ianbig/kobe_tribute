@@ -1,0 +1,60 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: gainsboro;
+    height: auto;
+    width: 800px;
+    width: auto;
+
+}
+
+#kobe {
+    color: blueviolet;
+}
+
+#bryant {
+    color: lightyellow;
+}
+
+#title{
+  font-family: fantasy;
+  font-size: 75px;
+}
+
+#title-word {
+    font-family: monospace;
+    text-align: center;
+    font-size: 15px;
+}
+
+#img-div {
+    width:  auto;
+    height: auto;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+}
+
+
+#img-caption {
+    font-family: monospace;
+    flex-grow: 1;
+}
+
+#timeline {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: purple;
+}
